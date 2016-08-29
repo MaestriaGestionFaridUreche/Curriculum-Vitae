@@ -2,6 +2,7 @@
 
 # FARID ELIECER URECHE LOPEZ
 
+![](https://github.com/MaestriaGestionFaridUreche/Curriculum-Vitae/blob/master/foto.png)
 ####Celular				3145793359
 ####Whatsapp   3145793359
 ####e-mail				farid.ureche@hotmail.com
